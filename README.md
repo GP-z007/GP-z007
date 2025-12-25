@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-✨Student ✨
+✨Student✨
 
 - 🔭 I’m currently working on Project Axiom
 - 🌱 I’m currently learning a lot
