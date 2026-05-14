@@ -1,15 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:a855f7&height=220&section=header&text=GP-z007&fontColor=ffffff&fontSize=60&animation=twinkling&desc=Student%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=65" alt="Header banner" />
+  <img src="assets/pixel-nerd-bg.svg" alt="Pixelated tech background" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=540&lines=Discord-style+profile+loading...;Building+Axiom+in+dark+mode;Learning+and+shipping+every+day" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:1e293b,100:312e81&height=220&section=header&text=GP-z007&fontColor=ffffff&fontSize=60&animation=twinkling&desc=Student%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=65" alt="Header banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Online-22c55e?style=for-the-badge&logo=discord&logoColor=white" alt="Discord status" />
-  <img src="https://img.shields.io/badge/Theme-Dark%20Mode-111827?style=for-the-badge&logo=moon&logoColor=white" alt="Dark mode" />
-  <img src="https://img.shields.io/badge/Focus-Learning%20%26%20Building-0ea5e9?style=for-the-badge" alt="Focus badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Booting+the+nerd+stack...;Compiling+Axiom+modules;Shipping+patches+in+pixel+time" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Online-22c55e?style=for-the-badge&logo=gnubash&logoColor=white" alt="Status badge" />
+  <img src="https://img.shields.io/badge/Theme-Pixel%20Dark-0f172a?style=for-the-badge" alt="Pixel theme badge" />
+  <img src="https://img.shields.io/badge/Focus-Terminal%20Builds-38bdf8?style=for-the-badge" alt="Focus badge" />
 </p>
 
 <table align="center">
@@ -25,12 +29,12 @@
         <li>🔭 Currently building: <b>Axiom</b></li>
         <li>🌱 Learning continuously and improving every day</li>
         <li>💬 Ask me about: <b>troubleshooting</b> and solving technical problems</li>
-        <li>⚡ Fun fact: Dark mode keeps bugs away 😄</li>
+        <li>⚡ Fun fact: I debug best in 8-bit mode 😄</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=flat-square" alt="Collaboration badge" />
-        <img src="https://img.shields.io/badge/Mode-Always%20On%20Dark-111827?style=flat-square" alt="Dark mode badge" />
-        <img src="https://img.shields.io/badge/Vibe-Modern%20Builder-8b5cf6?style=flat-square" alt="Vibe badge" />
+        <img src="https://img.shields.io/badge/Mode-CLI%20First-0f172a?style=flat-square" alt="CLI mode badge" />
+        <img src="https://img.shields.io/badge/Vibe-Tech%20Nerd-8b5cf6?style=flat-square" alt="Vibe badge" />
       </p>
     </td>
   </tr>
@@ -60,7 +64,7 @@
 
 ---
 
-## 🛠️ Modern Tech Stack
+## 🛠️ Tech Nerd Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
